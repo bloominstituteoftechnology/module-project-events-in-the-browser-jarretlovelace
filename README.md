@@ -15,6 +15,7 @@ To complete this project, you will use the following technical skills:
 1. **Traverse the DOM** using properties of the DOM nodes.
 1. **Create listeners** for click events and keyboard events.
 
+test
 In addition to these technical skills, the following soft skills will significantly impact your performance:
 
 1. Attention to detail. Make sure there isn't a single character out of place!
